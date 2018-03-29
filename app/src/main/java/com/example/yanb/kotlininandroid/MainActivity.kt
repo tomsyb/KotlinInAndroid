@@ -1,5 +1,5 @@
 package com.example.yanb.kotlininandroid
-
+//包定义
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
@@ -9,4 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+    //------------------------------------------------------------------------函数定义---------------------------------------
+
 }
